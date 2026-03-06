@@ -1,4 +1,4 @@
-# Hi there, I'm [Batuhan Görsel Yalçın] 👋
+# Hi there, I'm Batuhan Görsel Yalçın 👋
 
 ### Data Analyst & GIS Enthusiast 🌍📊
 

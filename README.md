@@ -1,4 +1,4 @@
-# Hi there, I'm [Adın veya Adın Soyadın] 👋
+# Hi there, I'm [Batuhan Görsel Yalçın] 👋
 
 ### Data Analyst & GIS Enthusiast 🌍📊
 
@@ -27,26 +27,17 @@ Transforming spatial and tabular data into actionable insights through continuou
 
 ### 🚀 Featured Projects
 
-#### 1. [Projenin Adı - Örn: Urban Traffic Spatial Analysis]
-* **Description:** [Projenin kısa açıklaması. Örn: İstanbul trafiğinin mekansal veri analizi ve QGIS kullanılarak haritalandırılması.]
-* **Tools used:** Python, QGIS, PostgreSQL
-* **Link:** [View Repository](Buraya projenin github linkini koy)
-
-#### 2. [Projenin Adı - Örn: E-commerce Sales Dashboard]
-* **Description:** [Projenin kısa açıklaması. Örn: Kaggle satış veri setini kullanarak müşteri davranışlarını analiz eden Tableau dashboard'u.]
-* **Tools used:** SQL, Tableau, Pandas
-* **Link:** [View Repository](Buraya projenin github linkini koy)
+Soon...
 
 ---
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical)
+![Newbie](https://github-readme-stats.vercel.app/api?username=bgorsel&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senin-linkedin-uzantin)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/senin-kaggle-adın)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senin.emailin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-görsel-yalçın-1b441430b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgorselll@gmail.com)

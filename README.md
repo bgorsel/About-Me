@@ -33,7 +33,7 @@ Soon...
 
 ### 📈 GitHub Stats
 
-![bgorsel GitHub stats](https://github-readme-stats.vercel.app/api?username=bgorsel&show_icons=true&theme=radical)
+![bgorsel GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bgorsel&show_icons=true&theme=radical)
 
 ---
 

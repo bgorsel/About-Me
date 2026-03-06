@@ -35,9 +35,11 @@ Soon...
 
 ![bgorsel GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bgorsel&show_icons=true&theme=radical)
 
+
 ---
 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-görsel-yalçın-1b441430b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgorselll@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/batuhangrselyaln)
